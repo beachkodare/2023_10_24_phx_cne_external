@@ -1,5 +1,4 @@
-# 2023 9 14, CNE Demo Code
+# 2023 10 23 CNE Demo UI Svc
 
-### Cool lightweight service for demonstrations
+### Cool lightweight service for demonstration
 
-- [Current Winds in your area](https://www.windy.com/?24.934,-90.542,5)
